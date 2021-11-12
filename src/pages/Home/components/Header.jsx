@@ -1,10 +1,7 @@
 import React from 'react';
-import { Button } from '@material-ui/core';
+
 import { makeStyles } from '@material-ui/core/styles';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/ToolBar';
-import SvgIcon from '@material-ui/core/SvgIcon';
-import Avatar from '@material-ui/core/Avatar';
+import { Button, AppBar, Toolbar, SvgIcon, Avatar} from '@material-ui/core';
 import { Bell } from 'react-feather';
 
 
